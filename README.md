@@ -40,7 +40,8 @@ Experience the classic game of Rock-Paper-Scissors reimagined with real-time han
 
 ## 📸 Screenshots
 
-*(Include gameplay, gesture detection, and final score screens here)*
+[PlayerWins](https://github.com/user-attachments/assets/4efee600-9ffe-4317-b1d3-8b9aaa44b412)
+![AIWins](https://github.com/user-attachments/assets/0e6e85b8-405f-42bf-8edd-8cd645f8e8b3)
 
 ---
 
@@ -115,8 +116,8 @@ Huge thanks to the open-source community and developers behind OpenCV, cvzone, M
 
 ## 👨‍💻 Author
 
-Built with ❤️ by **\[Your Name]**
-Let’s connect: [LinkedIn](https://linkedin.com/in/yourprofile)
+Built with 🔥 by Yash
+Let’s connect: www.linkedin.com/in/yash-srivastava-46a02a28b
 
 ---
 
