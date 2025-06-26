@@ -41,7 +41,6 @@ Experience the classic game of Rock-Paper-Scissors reimagined with real-time han
 ## 📸 Screenshots
 
 [PlayerWins](https://github.com/user-attachments/assets/4efee600-9ffe-4317-b1d3-8b9aaa44b412)
-![AIWins](https://github.com/user-attachments/assets/0e6e85b8-405f-42bf-8edd-8cd645f8e8b3)
 
 ---
 
